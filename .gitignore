@@ -1,0 +1,6 @@
+*.php
+keyfile.pem
+credential.env
+.hidden/**
+node_modules?**
+
